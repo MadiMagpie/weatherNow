@@ -24,7 +24,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 API courtesy of [OpenWeather](https://openweathermap.org/api)
 
 ## Tools
-Created with Next.js and styled
+Created with Next.js and styled components
 
 ## Why did I make this?
 Made for Media 3109 for the Digital Design and Development Diploma at British Columbia Institute of Technology
